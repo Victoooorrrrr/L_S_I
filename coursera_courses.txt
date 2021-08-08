@@ -1,0 +1,2 @@
+('''Бизнес на свои''', 'https://www.coursera.org/learn/biznes-na-svoi-mosigra', '''National Research Tomsk State University, Mосигра, E-Learning Development Fund''')
+('''Закон стартапа: юридические основы технологического бизнеса''', 'https://www.coursera.org/learn/zakon-startapa-tekhnologicheskogo-biznesa', '''Moscow Institute of Physics and Technology''')
